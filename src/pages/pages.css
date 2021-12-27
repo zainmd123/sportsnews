@@ -1,0 +1,27 @@
+.page{
+    background-color: #070E30;
+    height:200vh;
+    margin: 0px;
+    padding: 0px;
+}
+.page-title{
+    text-align-last: center;
+    color: #ffffff;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+.page-text{
+    display:flex;
+    padding: 50px;
+    margin-top: 30px;
+    color:#ffffff;
+    font-size: 25px;
+    word-spacing: 10px;
+
+}
+.img{
+    margin-left: 50px;
+    display:flex;
+    height: 350px;
+    width: 450px;
+}
